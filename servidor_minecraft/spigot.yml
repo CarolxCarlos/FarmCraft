@@ -135,8 +135,8 @@ world-settings:
       entity: 50
     item-despawn-rate: 6000
     view-distance: default
-    simulation-distance: default
     nerf-spawner-mobs: false
+    simulation-distance: default
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
